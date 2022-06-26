@@ -1,5 +1,4 @@
 {
-{
 "panel": {
 "modal-btn-ban": "Bannir",
 "modal-btn-kick": "Exclure",
@@ -142,7 +141,7 @@
 "page-admin-users-view-card-license-max-servers": "^aServeurs maximums: ^7%d",
 "page-admin-users-view-btn-decrease-servers": "Diminuer",
 "page-admin-users-view-btn-increase-servers": "Augmenter",
-"page-server-main-title:" "<span>%s</span> ^g[^b%s^g]^7 - Principal",
+"page-server-main-title": "<span>%s</span> ^g[^b%s^g]^7 - Principal",
 "page-server-main-btn-delete-server": "Supprimer le serveur",
 "page-server-main-modal-delete-server-body": "Êtes-vous sûr de vouloir supprimer les données de ce serveur? Cette action ne peut pas être annulée!",
 "page-server-main-card-total-bans": "Banissements totaux",
@@ -208,7 +207,7 @@
 "page-settings-language-bad_steam_name": "Le message à afficher lorsque le nom du compte steam de l'utilisateur contient des caractères interdits.",
 "page-settings-language-using_vpn": "Le message à afficher lorsque l'utilisateur utilise un VPN.",
 "page-settings-language-youre_banned": "Le message à afficher lorsque l'utilisateur est banni.",
-"page-settings-language-banned_for_cheating:" "Le message à afficher lorsque l'utilisateur reçoit un bannissement pour tricherie.",
+"page-settings-language-banned_for_cheating": "Le message à afficher lorsque l'utilisateur reçoit un bannissement pour tricherie.",
 "page-settings-language-kicked_for_cheating": "Le message à afficher lorsque l'utilisateur reçoit un kick pour avoir triché.",
 "page-settings-language-banned_for_spam": "Le message à afficher lorsque l'utilisateur reçoit un banissement pour spam.",
 "page-settings-language-kicked_for_spam": "Le message à afficher lorsque l'utilisateur reçoit un kick pour spam.",
@@ -507,7 +506,7 @@
 "player-banned": "Joueur banni.",
 "invalid-command": "Utilisez %{yellow}pac help %{reset}pour afficher la liste des commandes disponibles.",
 "existing-identifiers-not-found": "Les identifiants existants pour cet utilisateur n'existent pas! Il peut être en mesure d'échapper au ban!",
-"command-%s-is-not-valid:" "%{yellow}%s %{reset}n'est pas une commande. Utilisez %{yellow}pac help %{reset}pour voir la liste des commandes disponibles.",
+"command-%s-is-not-valid": "%{yellow}%s %{reset}n'est pas une commande. Utilisez %{yellow}pac help %{reset}pour voir la liste des commandes disponibles.",
 "failed-to-open-file-%s-in-resource-%s-%d": "Échec de l'ouverture du fichier %{yellow}%s %{reset}dans la ressource %{blue}%s %{reset}(Erreur: %{red}%d%{reset})"
 },
 "triggers": {
@@ -526,7 +525,7 @@
 "admin": "Admin",
 "additionals": "Autres infos",
 "offline-ban": "Ban Hors Ligne",
-"player-name:" "Nom du joueur",
+"player-name": "Nom du joueur",
 "player-identifiers": "Identifiants du joueur",
 "player-connecting": "Le joueur se connecte",
 "player-disconnected": "Le joueur s'est déconnecté",
