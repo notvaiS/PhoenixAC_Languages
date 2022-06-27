@@ -498,7 +498,7 @@
 		"word-plural": "s"
 	},
 	"console": {
-		"lista-de-comandos-disponibles": "Lista de comandos disponibles:",
+		"list-of-available-commands": "Lista de comandos disponibles:",
 		"generic-description": "No hay descripción disponible para este comando",
 		"word-not": "no",
 		"command-describe-help": "Enumera todos los comandos disponibles",
@@ -519,7 +519,7 @@
 		"failed-to-open-file-%s-in-resource-%s-%d": "Fallo al abrir %{yellow}%s %{reset}en el recurso %{blue}%s %{reset}(Error: %{red}%d%{reset})"
 	},
 	"triggers": {
-		"sociedades-no-cargadas": "¡No hay sociedades registradas! Por favor, asegúrese de que todos los recursos se están ejecutando y asegúrese de que %{yellow}%s %{reset} es el último en iniciarse",
+		"societies-not-loaded": "¡No hay sociedades registradas! Por favor, asegúrese de que todos los recursos se están ejecutando y asegúrese de que %{yellow}%s %{reset} es el último en iniciarse",
 		"society-error-%s-doesnt-exist": "¡El jugador %s (%d) ha intentado facturar a %s (%d) pero la sociedad %{yellow}%s %{reset}no existe!",
 		"society-error-invalid-job": "¡El jugador %s (%d) ha intentado facturar a %s (%d) pero su trabajo %{amarillo}%s %{reset}no coincide con el nombre de la sociedad %{amarillo}%s%{reset}!",
 		"society-log": "Jugador %s (%d) facturado %s (%d) por %s [%d]",
@@ -546,7 +546,7 @@
 		"ban-type": "Tipo de Baneo",
 		"source": "Fuente",
 		"name": "Nombre",
-		"vapor": "Steam",
+		"steam": "Steam",
 		"steam-not-found": "Steam no encontrado",
 		"discord": "Discord",
 		"server-started": "Servidor iniciado",
