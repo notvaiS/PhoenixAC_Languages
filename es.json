@@ -126,7 +126,7 @@
 		"page-admin-logs-title": "Registro de eventos",
 		"page-admin-logs-button-title": "Borrar registros",
 		"page-admin-logs-modal-sub-are-you-sure": "¿Estás seguro de que quieres hacer esto? ¡Esta acción es irreversible!",
-		"page-admin-logs-modal-button-submit": "Borrar",
+		"page-admin-logs-modal-button-submit": "Enviar",
 		"page-admin-logs-modal-button-cancel": "Cancelar",
 		"page-admin-logs-card-title": "Logs",
 		"page-admin-logs-card-sub-fetching-logs": "Obteniendo logs...",
