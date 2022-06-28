@@ -483,7 +483,7 @@
 		"restarted-resource-%s": "Recurso reiniciado %{yellow}%s%{reset}",
 		"failed-to-open-file-%s-in-resource-%s-%d": "Failed to open file %{yellow}%s %{reset}in resource %{blue}%s %{reset}(Error: %{red}%d%{reset})",
 		"installed-screenshot-version-%s": "Versión de screenshot instalada %{yellow}%s%{reset}",
-		"protecting-resource-%s": "Protegiendo el recurso %{amarillo}%s%{reset}",
+		"protecting-resource-%s": "Protegiendo el recurso %{yellow}%s%{reset}",
 		"time-threshold-exceeded-for-screenshot-upload": "Se ha excedido el tiempo límite para la captura de pantalla.",
 		"player-disconnected-during-screenshot": "Jugador desconectado mientras se hacía la captura de pantalla",
 		"empty-response-from-client": "El cliente ha enviado una url vacía",
@@ -510,7 +510,7 @@
 		"command-describe-ban": "Prohíbe a un usuario que está conectado / desconectado",
 		"command-describe-screenshot": "Elige el modo de captura de pantalla que quieres utilizar",
 		"invalid-module-%s": "Módulo inválido %{yellow}%s%{reset}",
-		"invalid-option-%s": "Opción inválida %{amarillo}%s%{restablecer}",
+		"invalid-option-%s": "Opción inválida %{yellow}%s%{reset}",
 		"module-%s-is-%s-%s-installed-%s": "El Módulo %{yellow}%s %{reset}está %s%{%s}instalado%s%{reset}",
 		"player-banned": "Jugador baneado",
 		"invalid-command": "Por favor, utiliza %{yellow}pac help %{reset}para ver los comandos disponibles",
@@ -521,7 +521,7 @@
 	"triggers": {
 		"societies-not-loaded": "¡No hay sociedades registradas! Por favor, asegúrese de que todos los recursos se están ejecutando y asegúrese de que %{yellow}%s %{reset} es el último en iniciarse",
 		"society-error-%s-doesnt-exist": "¡El jugador %s (%d) ha intentado facturar a %s (%d) pero la sociedad %{yellow}%s %{reset}no existe!",
-		"society-error-invalid-job": "¡El jugador %s (%d) ha intentado facturar a %s (%d) pero su trabajo %{amarillo}%s %{reset}no coincide con el nombre de la sociedad %{amarillo}%s%{reset}!",
+		"society-error-invalid-job": "¡El jugador %s (%d) ha intentado facturar a %s (%d) pero su trabajo %{yellow}%s %{reset}no coincide con el nombre de la sociedad %{yellow}%s%{reset}!",
 		"society-log": "Jugador %s (%d) facturado %s (%d) por %s [%d]",
 		"thief-log": "El jugador %s (%d) robó %s [%d] (%s) a %s (%d)"
 	},
