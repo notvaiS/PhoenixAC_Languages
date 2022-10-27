@@ -12,6 +12,7 @@
 		"modal-btn-close": "Close",
 		"placeholder-serial-key": "Serial Key",
 		"notification-screenshots-cleared": "Screenshots cleared.",
+		"notification-screenshot-doesnt-exist": "Screenshot doesn't exist!",
 		"notification-no-access-to-this-section": "You do not have access to this section",
 		"notification-redeem-license-already-has-license": "You already have an active license!",
 		"notification-redeem-license-invalid-key": "No license exists for that serial key! Ensure you entered the correct key and try again.",
