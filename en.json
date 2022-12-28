@@ -311,6 +311,7 @@
 		"generic-string-kick-damageevent": "Should the anticheat kick the user if their damage is too high?",
 		"generic-string-ban-damageevent": "Should the anticheat ban the user if their damage is too high?",
 		"generic-string-warn-damageevent": "Should the anticheat warn staff of the player if their damage is too high?",
+		"generic-string-screenshot-damageevent": "Should the anticheat screenshot the player if their damage is too high?",
 		"generic-string-block-use": "Should the anticheat block the clear ped tasks?",
 		"generic-string-kick-use": "Should the anticheat kick the user on clear ped tasks?",
 		"generic-string-ban-use": "Should the anticheat ban the user on clear ped tasks?",
