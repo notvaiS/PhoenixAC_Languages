@@ -384,6 +384,7 @@
 		"failed-to-parse-config-%s": "Config parse failed: %s"
 	},
 	"server": {
+		"invalid-identifier-provided": "Invalid identifier provided. Ensure it's formatted as follows: discord:123,license:456",
 		"checking-for-new-versions": "Checking for new versions...",
 		"no-new-versions-found": "No new versions found.",
 		"error-occured-while-protecting-%s": "Error occured while protecting %{yellow}%s %{red}%s",
@@ -533,7 +534,7 @@
 	},
 	"webhooks": {
 		"admin-action": "Admin Action",
-		"admin-%s-%s-performed-action-%s": "Admin `%s (%s)` performed action `%s`.",
+		"admin-%s-%s-F": "Admin `%s (%s)` performed action `%s`.",
 		"action-data": "Action Data",
 		"warning": "Warning",
 		"reason": "Reason",
