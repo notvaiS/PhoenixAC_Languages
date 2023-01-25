@@ -534,7 +534,7 @@
 	},
 	"webhooks": {
 		"admin-action": "Admin Action",
-		"admin-%s-%s-F": "Admin `%s (%s)` performed action `%s`.",
+		"admin-%s-%s-performed-action-%s": "Admin `%s (%s)` performed action `%s`.",
 		"action-data": "Action Data",
 		"warning": "Warning",
 		"reason": "Reason",
