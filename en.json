@@ -259,6 +259,8 @@
 		"generic-string-ignored-%s": "Ignored %s",
 		"generic-string-cross-resource-%s-tooltip": "List of cross resource %s. (seperated by comma)",
 		"generic-string-cross-resource-%s": "Cross Resource %s",
+		"generic-string-kickforeventprotectiontesting": "Kick For Event Protection Testing",
+		"generic-string-kickforeventprotectiontesting-tooltip": "Should the anticheat only kick the player on event protection trigger?",
 		"generic-string-on-weapon-give": "On Weapon Give",
 		"generic-string-on-weapon-take": "On Weapon Take",
 		"generic-string-on-weapon-damage": "On Weapon Damage",
