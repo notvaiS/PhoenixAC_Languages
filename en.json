@@ -421,6 +421,7 @@
 		"%s-%s-banned-%s-%s-for-%s": "^5%s ^7(^6%s^7) banned ^5%s ^7(^6%s^7) for ^3%s^7",
 		"%s-%s-banned-%s-for-%s": "^5%s ^7(^6%s^7) banned ^5%s ^7for ^3%s^7",
 		"%s-%s-warned-%s-%s-for-%s": "^5%s ^7(^6%s^7) warned ^5%s ^7(^6%s^7) for ^3%s^7",
+		"connecting-progress-checking-duplicate-licenses": "Checking for duplicate licenses...",
 		"connecting-progress-sid-checking": "Checking if steam is running...",
 		"connecting-progress-name-checking": "Checking steam name...",
 		"connecting-progress-profile-checking": "Checking steam profile...",
