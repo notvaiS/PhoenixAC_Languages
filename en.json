@@ -340,6 +340,8 @@
 		"generic-string-networkbans": "Use Network Bans",
 		"generic-string-globalbans-tooltip": "Should the anticheat query a malicious player dataset on join?",
 		"generic-string-globalbans": "Use Malicious Player Check",
+		"generic-string-duplicatecheck-tooltip": "Should the anticheat check for duplicate rockstar licenses on join?",
+		"generic-string-duplicatecheck": "Duplicate Rockstar License Check",
 		"generic-string-honeypottrigger": "Honeypot Trigger",
 		"generic-string-honeypottriggers": "Honeypot Triggers",
 		"generic-string-ignoredevents": "Ignored Events",
