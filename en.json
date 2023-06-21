@@ -208,6 +208,8 @@
 		"page-settings-language-webhooks_ban": "The webhook to post all ban related messages to.",
 		"page-settings-language-webhooks_kick": "The webhook to post all kick related messages to.",
 		"page-settings-language-webhooks_warn": "The webhook to post all warning related messages to.",
+		"page-settings-language-webhooks_join": "The webhook to post all connection related messages to.",
+		"page-settings-language-webhooks_leave": "The webhook to post all disconnect related messages to.",
 		"page-settings-language-webhooks_info": "The webhook to post all miscellaneous information to.",
 		"page-settings-language-webhooks_adminactions": "The webhook to post all admin actions to.",
 		"page-settings-language-no_steam_identifier": "The message to display when no steam identifier is found.",
