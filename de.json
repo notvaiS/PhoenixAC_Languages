@@ -103,7 +103,7 @@
 		"page-main-title": "Dein Dashboard",
 		"page-main-sub-license-expired": "Deine Lizenz ist ausgelaufen! Bitte erneuere deine Lizenz um sie zu reaktivieren.",
 		"page-main-sub-license-revoked": "Deine Lizenz wurde widerrufen! In 95% der Fälle liegt dies an einer automatischen Überprüfung auf Verstoß gegen die Nutzungsbedingungen oder Ähnlichem. Bitte kontaktiere den Support.",
-        "page-main-sub-no-license": "Du hast keine aktive Lizenz! Bitte kaufe eine <a href='/store' forced='true'>hier</a>, um den Anticheat zu nutzen.",
+		"page-main-sub-no-license": "Du hast keine aktive Lizenz! Bitte kaufe eine <a href='/store' forced='true'>hier</a>, um den Anticheat zu nutzen.",
 		"page-faq-title": "Häufig gestellte Fragen (FAQ)",
 		"page-faq-card-title": "FAQ",
 		"page-redeem-title": "Lizenz einlösen",
