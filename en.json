@@ -529,6 +529,7 @@
 		"command-describe-status": "Gets the status of the anticheat [or specified module]",
 		"command-describe-ban": "Bans a user that is online / offline.",
 		"command-describe-screenshot": "Chooses which mode of screenshotting you want to use.",
+		"command-describe-wipe": "Wipes all player spawned entities of desired type.",
 		"invalid-module-%s": "Invalid module %{yellow}%s%{reset}.",
 		"invalid-option-%s": "Invalid option %{yellow}%s%{reset}.",
 		"module-%s-is-%s-%s-installed-%s": "Module %{yellow}%s %{reset}is %s%{%s}installed%s%{reset}.",
