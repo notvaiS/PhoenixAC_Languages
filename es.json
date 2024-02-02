@@ -465,6 +465,7 @@
 		"player-%s-%d-is-spamming-chat": "El jugador ^6%s ^7(^3%d^7) está haciendo spam en el chat",
 		"player-%s-%d-pressed-a-blacklisted-key-combination": "El jugador ^6%s ^7(^3%d^7) ha pulsado una combinación de teclas de la lista negra",
 		"player-%s-%d-spawned-a-blacklisted-weapon": "El jugador ^6%s ^7(^3%d^7) spawneó un arma en la lista negra",
+		"player-%s-%d-triggered-protection-%s": "El jugador ^6%s ^7(^3%d^7) activó la protección ^3%s^7.",
 		"player-%s-%d-may-be-noclipping": "El jugador ^6%s ^7(^3%d^7) puede estar haciendo NoClip",
 		"player-%s-%d-may-be-freecamming": "El jugador ^6%s ^7(^3%d^7) puede estar usando FreeCam",
 		"player-%s-%d-may-be-using-aimassist": "El jugador ^6%s ^7(^3%d^7) puede estar usando aimassist",
